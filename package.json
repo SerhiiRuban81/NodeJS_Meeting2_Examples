@@ -1,0 +1,30 @@
+{
+  "name": "meeting_2",
+  "version": "1.0.0",
+  "description": "a core NodeJS concepts illustrations",
+  "main": "main.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "node index.js",
+    "dev": "node index.js Ruban 3002"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SerhiiRuban81/NodeJS_Meeting2_Examples.git"
+  },
+  "keywords": [
+    "asynchronous",
+    "events",
+    "pipes",
+    "files"
+  ],
+  "author": "Serhii Ruban",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SerhiiRuban81/NodeJS_Meeting2_Examples/issues"
+  },
+  "homepage": "https://github.com/SerhiiRuban81/NodeJS_Meeting2_Examples#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
